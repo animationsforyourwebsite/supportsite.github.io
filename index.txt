@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>File Locker Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+      background: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+      color: #0055cc;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    a {
+      color: #0055cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .contact {
+      margin-top: 30px;
+      padding: 15px;
+      background: #e1eaff;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <h1>File Locker Support</h1>
+  <p>If you have questions, feedback, or need help using File Locker, we’re here for you!</p>
+  
+  <div class="contact">
+    <p><strong>Email Support:</strong> <a href="mailto:support@yourdomain.com">support@yourdomain.com</a></p>
+    <p><strong>Website:</strong> <a href="https://owenchappell.github.io">https://owenchappell.github.io</a></p>
+  </div>
+
+  <h2>FAQ</h2>
+  <p><strong>Q:</strong> How do I set a password to lock my files?<br />
+  <strong>A:</strong> Open the app, select your file or folder, and enter your desired password in the lock section.</p>
+
+  <p><strong>Q:</strong> What if I forget my password?<br />
+  <strong>A:</strong> Unfortunately, the app does not support password recovery. Please keep your password safe.</p>
+
+  <p>For other questions, please email us at <a href="mailto:billogan702@gmail.com">billlogan702@gmail.com</a>.</p>
+</body>
+</html>
